@@ -20,8 +20,3 @@ var mostDeep = nodes[nodes.length- 1];
  return mostDeep;
  }
  
- 
- //var goingDeep = document.getElementById('grand-node').querySelectorAll('div');
-  //for (let i = 0; i < goingDeep.length; i++){
-    //goingDeep[i].innerHTML = goingDeep;
-  //  return goingDeep;
